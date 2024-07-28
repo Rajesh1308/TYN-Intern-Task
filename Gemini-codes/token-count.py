@@ -1,4 +1,4 @@
-api_key = "AIzaSyDAPdxupuluPC08adxzayOmM86AyrCUbWY"
+api_key = ""
 
 import google.generativeai as genai
 
