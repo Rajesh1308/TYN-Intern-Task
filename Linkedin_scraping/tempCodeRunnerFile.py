@@ -1,0 +1,1 @@
+break-words whitespace-pre-wrap text-color-text

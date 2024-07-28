@@ -1,0 +1,547 @@
+Rank,Name,Country,Sales,Profit,Assets,Market Value,Year
+1.0,ICBC,China,$190.5 B,$45.8 B,"$4,914.7 B",$249.5 B,2021
+2.0,JPMorgan Chase,United States,$136.2 B,$40.4 B,"$3,689.3 B",$464.8 B,2021
+3.0,Berkshire Hathaway,United States,$245.5 B,$42.5 B,$873.7 B,$624.4 B,2021
+4.0,China Construction Bank,China,$173.5 B,$39.3 B,"$4,301.7 B",$210.4 B,2021
+5.0,Saudi Arabian Oil Company (Saudi Aramco),Saudi Arabia,$229.7 B,$49.3 B,$510.3 B,"$1,897.2 B",2021
+6.0,Apple,United States,$294 B,$63.9 B,$354.1 B,"$2,252.3 B",2021
+6.0,Bank of America,United States,$98.8 B,$17.9 B,"$2,832.2 B",$336.3 B,2021
+6.0,Ping An Insurance Group,China,$169.1 B,$20.8 B,"$1,453.8 B",$211.2 B,2021
+9.0,Agricultural Bank of China,China,$153.9 B,$31.3 B,"$4,159.9 B",$140.1 B,2021
+10.0,Amazon,United States,$386.1 B,$21.3 B,$321.2 B,"$1,711.8 B",2021
+11.0,Samsung Electronics,South Korea,$200.7 B,$22.1 B,$348.2 B,$510.5 B,2021
+12.0,Toyota Motor,Japan,$249.4 B,$14.3 B,$561.9 B,$219.2 B,2021
+13.0,Alphabet,United States,$182.4 B,$40.3 B,$319.6 B,"$1,538.9 B",2021
+14.0,Bank of China,China,$134 B,$27.9 B,"$3,731.4 B",$116.7 B,2021
+15.0,Microsoft,United States,$153.3 B,$51.3 B,$304.1 B,"$1,966.6 B",2021
+,Citigroup,United States,$84.4 B,$17.1 B,"$2,314.3 B",$151.2 B,2021
+16.0,Volkswagen Group,Germany,$254.1 B,$9.5 B,$646.4 B,$147.2 B,2021
+17.0,Walmart,United States,$559.2 B,$13.5 B,$252.5 B,$396.1 B,2021
+18.0,Wells Fargo,United States,$85.9 B,$7.4 B,"$1,959.5 B",$181.5 B,2021
+19.0,Verizon Communications,United States,$128.3 B,$17.8 B,$316.5 B,$241.3 B,2021
+20.0,UnitedHealth Group,United States,$262.9 B,$16.9 B,$205.2 B,$369.6 B,2021
+21.0,China Merchants Bank,China,$60.4 B,$14.1 B,"$1,278.5 B",$192.8 B,2021
+22.0,Alibaba Group,China,$93.8 B,$23.3 B,$250.1 B,$657.5 B,2021
+23.0,Allianz,Germany,$129.9 B,$7.8 B,"$1,357.5 B",$108 B,2021
+24.0,Comcast,United States,$103.6 B,$10.5 B,$273.9 B,$252.4 B,2021
+25.0,Goldman Sachs Group,United States,$61.8 B,$15.1 B,"$1,302 B",$116.5 B,2021
+26.0,Softbank,Japan,$70.3 B,$14.9 B,$366.7 B,$163.1 B,2021
+27.0,Postal Savings Bank Of China (PSBC),China,$67.2 B,$9.3 B,"$1,736.2 B",$112.4 B,2021
+28.0,Tencent Holdings,China,$70 B,$23.3 B,$203.9 B,$773.8 B,2021
+29.0,BNP Paribas,France,$102.7 B,$7.6 B,"$3,044.8 B",$79.1 B,2021
+30.0,Morgan Stanley,United States,$56.7 B,$13.4 B,"$1,158.8 B",$123.9 B,2021
+,China Mobile,Hong Kong,$111.3 B,$15.6 B,$264.2 B,$134.9 B,2021
+31.0,Facebook,United States,$86 B,$29.1 B,$159.3 B,$870.5 B,2021
+32.0,Johnson & Johnson,United States,$82.6 B,$14.7 B,$174.9 B,$427.1 B,2021
+33.0,Sony,Japan,$79.9 B,$10.1 B,$250.7 B,$137.3 B,2021
+34.0,Intel,United States,$77.9 B,$20.9 B,$153.1 B,$263.7 B,2021
+35.0,CVS Health,United States,$268.7 B,$7.2 B,$238.5 B,$99.6 B,2021
+36.0,RBC,Canada,$42.9 B,$8.8 B,"$1,308.2 B",$135 B,2021
+37.0,Nestlé,Switzerland,$89.9 B,$13 B,$140.3 B,$333.2 B,2021
+38.0,HSBC Holdings,United Kingdom,$60.6 B,$4 B,"$2,984.2 B",$120.3 B,2021
+39.0,Daimler,Germany,$175.9 B,$4.1 B,$349.6 B,$99.2 B,2021
+40.0,TD Bank Group,Canada,$38.8 B,$9.1 B,"$1,358.6 B",$120.6 B,2021
+41.0,Nippon Telegraph & Tel,Japan,$110.3 B,$8.3 B,$231.1 B,$96.7 B,2021
+42.0,Deutsche Telekom,Germany,$115.1 B,$4.7 B,$345.4 B,$91.6 B,2021
+43.0,General Electric,United States,$79.9 B,$5.6 B,$255.1 B,$117.6 B,2021
+44.0,Procter & Gamble,United States,$74 B,$13.8 B,$120.1 B,$338 B,2021
+45.0,General Motors,United States,$122.5 B,$6.4 B,$235.2 B,$84.6 B,2021
+,Sinopec,China,$271.1 B,$4.8 B,$265.1 B,$82.6 B,2021
+46.0,China Life Insurance,China,$113.8 B,$7.3 B,$651.9 B,$57.3 B,2021
+47.0,Industrial Bank,China,$53.8 B,$9.7 B,"$1,207.2 B",$66.5 B,2021
+48.0,Sberbank,Russia,$47.3 B,$10.4 B,$486.9 B,$85.7 B,2021
+49.0,Mitsubishi UFJ Financial,Japan,$56 B,$5.2 B,"$3,406.5 B",$69.7 B,2021
+50.0,Cigna,United States,$160.6 B,$8.5 B,$151.5 B,$87.7 B,2021
+51.0,AXA Group,France,$129.5 B,$3.4 B,$951.5 B,$67.8 B,2021
+52.0,AIA Group,Hong Kong,$42.6 B,$5.8 B,$321.6 B,$153.7 B,2021
+53.0,Reliance Industries,India,$61.2 B,$5.7 B,$166.3 B,$164.9 B,2021
+54.0,Bank of Communications,China,$67.6 B,$11.1 B,"$1,635.8 B",$47.9 B,2021
+55.0,Pfizer,United States,$47.6 B,$9.6 B,$154.2 B,$215.2 B,2021
+55.0,IBM,United States,$73.6 B,$5.6 B,$156 B,$119.4 B,2021
+57.0,Roche Holding,Switzerland,$62.1 B,$15.2 B,$97.4 B,$287.1 B,2021
+58.0,BMW Group,Germany,$112.8 B,$4.3 B,$282 B,$69.8 B,2021
+59.0,MetLife,United States,$67.8 B,$5.4 B,$795.1 B,$55.8 B,2021
+60.0,PetroChina,China,$280.7 B,$2.9 B,$380.5 B,$66.7 B,2021
+,LVMH Moët Hennessy Louis Vuitton,France,$50.9 B,$5.4 B,$133 B,$380.3 B,2021
+61.0,Novartis,Switzerland,$48.6 B,$8.1 B,$132.2 B,$198.6 B,2021
+62.0,Taiwan Semiconductor,Taiwan,$48.1 B,$18.7 B,$98.3 B,$558.1 B,2021
+63.0,Home Depot,United States,$132.1 B,$12.9 B,$70.6 B,$352.8 B,2021
+64.0,Shanghai Pudong Development,China,$52.3 B,$8.5 B,"$1,215.7 B",$47.4 B,2021
+65.0,Siemens,Germany,$58 B,$4.9 B,$148.6 B,$139.8 B,2021
+66.0,PepsiCo,United States,$71.3 B,$7.5 B,$91.2 B,$199.2 B,2021
+67.0,Oracle,United States,$39.7 B,$12.8 B,$118.1 B,$227.7 B,2021
+68.0,Sanofi,France,$41.1 B,$14 B,$140.1 B,$127.4 B,2021
+68.0,Enel,Italy,$71.4 B,$3 B,$200 B,$105.4 B,2021
+70.0,AbbVie,United States,$45.8 B,$4.6 B,$150.6 B,$190.4 B,2021
+71.0,Cisco Systems,United States,$48 B,$10.1 B,$95.6 B,$222.9 B,2021
+72.0,Zurich Insurance Group,Switzerland,$58.4 B,$3.8 B,$413.8 B,$61.7 B,2021
+73.0,Bank of Nova Scotia,Canada,$30.7 B,$5.1 B,$911.2 B,$75.3 B,2021
+74.0,Commonwealth Bank,Australia,$22.4 B,$5.7 B,$816.2 B,$120.7 B,2021
+75.0,BHP Group,Australia,$46.1 B,$6.9 B,$103.2 B,$186.1 B,2021
+,UBS,Switzerland,$32.2 B,$6.5 B,"$1,125.8 B",$57.3 B,2021
+75.0,British American Tobacco,United States,$33.1 B,$8.2 B,$188.2 B,$91.6 B,2021
+77.0,Honda Motor,Japan,$121.8 B,$3.9 B,$201.3 B,$52.8 B,2021
+78.0,Intesa Sanpaolo,Italy,$45.8 B,$3.7 B,"$1,226.7 B",$53.3 B,2021
+79.0,Merck & Co.,United States,$47.8 B,$7.1 B,$91.6 B,$196 B,2021
+79.0,Sumitomo Mitsui Financial,Japan,$38.6 B,$4.9 B,"$2,256.8 B",$48.9 B,2021
+81.0,Rio Tinto,Luxembourg,$44.5 B,$9.7 B,$97.4 B,$135.3 B,2021
+82.0,Japan Post Holdings,Japan,$106.6 B,$4.2 B,"$2,879 B",$34.8 B,2021
+82.0,US Bancorp,United States,$23.1 B,$6.1 B,$553.4 B,$86.9 B,2021
+84.0,Anthem,United States,$121.9 B,$4.6 B,$88.3 B,$92 B,2021
+85.0,Charter Communications,United States,$48.1 B,$3.2 B,$146.1 B,$124.8 B,2021
+86.0,Unilever,United Kingdom,$57.8 B,$6.3 B,$82.8 B,$151.1 B,2021
+87.0,Dell Technologies,United States,$94.3 B,$3.3 B,$123.4 B,$77.4 B,2021
+88.0,Manulife,Canada,$57.2 B,$4.4 B,$655 B,$41.9 B,2021
+89.0,Hon Hai Precision,Taiwan,$182 B,$3.5 B,$130.8 B,$60.4 B,2021
+90.0,American Express,United States,$38.2 B,$3.1 B,$191.4 B,$120.5 B,2021
+,China Vanke,China,$62.6 B,$6.1 B,$285.8 B,$42.2 B,2021
+90.0,GlaxoSmithKline,United Kingdom,$43.7 B,$7.4 B,$109.9 B,$92.9 B,2021
+92.0,Truist Financial,United States,$24.3 B,$4.9 B,$517.5 B,$77.8 B,2021
+93.0,Rosneft,Russia,$70.8 B,$2 B,$207.5 B,$77.7 B,2021
+94.0,China State Construction Engineering,China,$215.3 B,$6.1 B,$323 B,$33 B,2021
+95.0,JD.com,China,$108.3 B,$7.2 B,$64.6 B,$119.4 B,2021
+96.0,Coca-Cola,United States,$33 B,$7.7 B,$87.3 B,$231.3 B,2021
+97.0,Iberdrola,Spain,$37.8 B,$4.1 B,$149.9 B,$86.4 B,2021
+98.0,CITIC,Hong Kong,$71.3 B,$7.3 B,"$1,256.3 B",$29.5 B,2021
+99.0,Prudential,United Kingdom,$54.8 B,$2.1 B,$469.5 B,$55.7 B,2021
+100.0,KDDI,Japan,$49.3 B,$6.2 B,$98.4 B,$72.1 B,2021
+101.0,Bank of Montreal,Canada,$24.5 B,$4.1 B,$761.8 B,$59.4 B,2021
+102.0,Costco Wholesale,United States,$178.6 B,$4.3 B,$54.9 B,$164.1 B,2021
+103.0,Itaú Unibanco Holding,Brazil,$37.2 B,$3.7 B,$389.7 B,$48.5 B,2021
+104.0,State Bank of India,India,$50.6 B,$3.1 B,$638.1 B,$40.8 B,2021
+105.0,Chubb,Switzerland,$36.1 B,$3.5 B,$172.2 B,$73.3 B,2021
+106.0,Mitsubishi,Japan,$116.7 B,$3.1 B,$179.7 B,$41.6 B,2021
+107.0,Vale,Brazil,$40.4 B,$5.2 B,$92.1 B,$99.2 B,2021
+108.0,Capital One,United States,$31.6 B,$2.7 B,$421.6 B,$62.4 B,2021
+109.0,PNC Financial Services,United States,$17.4 B,$8.4 B,$474.4 B,$75.8 B,2021
+110.0,HDFC Bank,India,$20.7 B,$4.1 B,$233.6 B,$105.9 B,2021
+111.0,Credit Agricole,France,$43.5 B,$2.6 B,"$2,399.5 B",$41 B,2021
+112.0,Itochu,Japan,$96.6 B,$4.1 B,$107.8 B,$47.6 B,2021
+113.0,FedEx,United States,$78.7 B,$3 B,$82.8 B,$76.3 B,2021
+114.0,Vodafone,United Kingdom,$49.7 B,$2.8 B,$183.9 B,$52.6 B,2021
+115.0,Abbott Laboratories,United States,$34.6 B,$4.5 B,$72.5 B,$220.3 B,2021
+,Visa,United States,$21.5 B,$10.4 B,$80.4 B,$483.9 B,2021
+116.0,SAP,Germany,$31.7 B,$6.3 B,$71.5 B,$164.2 B,2021
+117.0,Thermo Fisher Scientific,United States,$32.2 B,$6.4 B,$69.1 B,$193.7 B,2021
+117.0,China Pacific Insurance,China,$61.2 B,$3.6 B,$266.6 B,$36.3 B,2021
+119.0,Lowe's,United States,$89.6 B,$5.8 B,$48.3 B,$149.4 B,2021
+120.0,BlackRock,United States,$18.1 B,$5.3 B,$177 B,$123.9 B,2021
+121.0,China Citic Bank,China,$50.4 B,$7.1 B,"$1,148.5 B",$26.5 B,2021
+122.0,Mizuho Financial,Japan,$30.3 B,$3.7 B,"$2,110.5 B",$36.3 B,2021
+123.0,Deutsche Post,Germany,$76.2 B,$3.4 B,$70.5 B,$72.1 B,2021
+124.0,Medtronic,Ireland,$27.9 B,$2.9 B,$97.3 B,$169.7 B,2021
+125.0,Caterpillar,United States,$41.7 B,$3 B,$78.3 B,$127.3 B,2021
+126.0,Hitachi,Japan,$78.7 B,$3.2 B,$106 B,$45.9 B,2021
+127.0,Lockheed Martin,United States,$65.4 B,$6.8 B,$50.7 B,$109.2 B,2021
+128.0,Generali Group,Italy,$90 B,$2 B,$668 B,$32.3 B,2021
+129.0,Target,United States,$93.6 B,$4.4 B,$51.2 B,$104 B,2021
+130.0,Deere & Company,United States,$37 B,$3.5 B,$75.5 B,$120.1 B,2021
+,Honeywell International,United States,$32.6 B,$4.8 B,$64.6 B,$161.2 B,2021
+131.0,SAIC Motor,China,$106.7 B,$3 B,$140.6 B,$36.4 B,2021
+132.0,Country Garden Holdings,China,$67.3 B,$5.1 B,$308.2 B,$27.2 B,2021
+133.0,ANZ,Australia,$20.3 B,$2.4 B,$747.1 B,$63.4 B,2021
+134.0,Charles Schwab,United States,$13.8 B,$4 B,$563.5 B,$116.9 B,2021
+135.0,Barclays,United Kingdom,$27.9 B,$2 B,"$1,844.7 B",$44.9 B,2021
+136.0,Broadcom,United States,$24.7 B,$4 B,$77 B,$195.5 B,2021
+137.0,Munich Re,Germany,$73.9 B,$1.4 B,$368.7 B,$43.5 B,2021
+138.0,Enbridge,Canada,$28.2 B,$2.5 B,$125.8 B,$75.6 B,2021
+139.0,ING Group,Netherlands,$20.1 B,$2.8 B,"$1,146.8 B",$49.3 B,2021
+140.0,China Minsheng Bank,China,$49 B,$4.9 B,"$1,062.8 B",$24.5 B,2021
+141.0,Linde,United Kingdom,$27.2 B,$2.5 B,$88.2 B,$151.6 B,2021
+141.0,Amgen,United States,$25.2 B,$7.3 B,$62.9 B,$147.2 B,2021
+143.0,Allstate,United States,$44.8 B,$5.6 B,$117.9 B,$36.7 B,2021
+144.0,PayPal,United States,$21.4 B,$4.2 B,$70.4 B,$316.9 B,2021
+145.0,Orange,France,$48.2 B,$5.5 B,$135.8 B,$33 B,2021
+,Banco Bradesco,Brazil,$26.7 B,$3.2 B,$306.3 B,$40.9 B,2021
+146.0,Hyundai Motor,South Korea,$88.1 B,$1.2 B,$192.7 B,$54 B,2021
+146.0,Danaher,United States,$22.3 B,$3.6 B,$76.2 B,$173.3 B,2021
+148.0,Westpac Banking Group,Australia,$21.9 B,$1.5 B,$654.6 B,$71.8 B,2021
+149.0,L'Oréal,France,$31.9 B,$4.1 B,$53.4 B,$225.7 B,2021
+150.0,Petrobras,Brazil,$52.7 B,$1.4 B,$190.1 B,$53.3 B,2021
+151.0,NextEra Energy,United States,$17.2 B,$2.9 B,$127.7 B,$158.8 B,2021
+152.0,AstraZeneca,United Kingdom,$27.7 B,$3.2 B,$66.7 B,$133.9 B,2021
+153.0,China Everbright Bank,China,$37.1 B,$5.5 B,$820.8 B,$23.9 B,2021
+154.0,Salesforce.com,United States,$21.3 B,$4.1 B,$66.3 B,$213.6 B,2021
+154.0,Oversea-Chinese Banking,Singapore,$24.5 B,$2.6 B,$394.5 B,$40.1 B,2021
+156.0,Aviva,Venezuela,$59 B,$3.6 B,$637.7 B,$22.3 B,2021
+157.0,United Parcel Service,United States,$84.4 B,$1.4 B,$62.4 B,$156 B,2021
+158.0,Progressive,United States,$42.6 B,$5.7 B,$60.8 B,$57.8 B,2021
+159.0,NAB - National Australia Bank,Australia,$18.4 B,$1.7 B,$621.3 B,$68.1 B,2021
+160.0,Accenture,Ireland,$45.7 B,$5.5 B,$40 B,$190.9 B,2021
+,Southern Company,United States,$20.2 B,$3.1 B,$122.9 B,$68.7 B,2021
+161.0,Canadian Imperial Bank,Canada,$17.6 B,$3.1 B,$612.9 B,$44.7 B,2021
+162.0,China Shenhua Energy,China,$33.9 B,$5.2 B,$86.1 B,$42.4 B,2021
+163.0,SK Hynix,South Korea,$27 B,$4 B,$65.5 B,$84.2 B,2021
+164.0,Philip Morris International,United States,$28.7 B,$8 B,$44.8 B,$144.8 B,2021
+165.0,VINCI,France,$50.1 B,$1.4 B,$111.5 B,$61.4 B,2021
+165.0,Mondelez International,United States,$26.6 B,$3.6 B,$67.8 B,$82.6 B,2021
+167.0,Lloyds Banking Group,United Kingdom,$43.4 B,$1.1 B,"$1,191 B",$42.5 B,2021
+168.0,Mitsui,Japan,$59.9 B,$2.4 B,$114.7 B,$35 B,2021
+169.0,Union Pacific,United States,$19.5 B,$5.3 B,$63.5 B,$148.5 B,2021
+170.0,3M,United States,$32.2 B,$5.4 B,$47.3 B,$115.1 B,2021
+171.0,CK Hutchison,Hong Kong,$34.3 B,$3.8 B,$161.8 B,$31.6 B,2021
+172.0,ICICI Bank,India,$21.3 B,$2 B,$207.9 B,$52.7 B,2021
+173.0,Midea Group,China,$39.1 B,$3.6 B,$51.5 B,$85.5 B,2021
+174.0,Exelon,United States,$33.4 B,$2 B,$129.3 B,$45.1 B,2021
+175.0,Credit Suisse Group,Switzerland,$32.6 B,$2.8 B,$911.6 B,$25.9 B,2021
+,Eli Lilly,United States,$24.5 B,$6.2 B,$46.6 B,$181.4 B,2021
+176.0,CNOOC,Hong Kong,$22.5 B,$3.6 B,$110.3 B,$48.4 B,2021
+177.0,Legal & General Group,United Kingdom,$64.4 B,$2.1 B,$770.4 B,$22.9 B,2021
+178.0,Aflac,United States,$22.1 B,$4.8 B,$164.1 B,$36.8 B,2021
+179.0,China Resources Land,Hong Kong,$27.1 B,$4.3 B,$132.9 B,$34.5 B,2021
+180.0,BBVA-Banco Bilbao Vizcaya,Spain,$32.9 B,$1.5 B,$900.7 B,$34.8 B,2021
+180.0,HCA Healthcare,United States,$51.5 B,$3.8 B,$47.5 B,$66.4 B,2021
+182.0,Duke Energy,United States,$23.9 B,$1.4 B,$167.3 B,$77.4 B,2021
+183.0,América Móvil,Mexico,$47.3 B,$2.2 B,$75.6 B,$48.3 B,2021
+184.0,Takeda Pharmaceutical,Japan,$30 B,$1.7 B,$119 B,$53.3 B,2021
+185.0,DBS,Singapore,$13.2 B,$3.4 B,$491.9 B,$55.4 B,2021
+186.0,Bank of New York Mellon,United States,$15.9 B,$3.6 B,$469.6 B,$40.4 B,2021
+187.0,Longfor Group Holdings,China,$27 B,$2.9 B,$117 B,$39.4 B,2021
+188.0,Schneider Electric,France,$28.7 B,$2.4 B,$60.5 B,$91.3 B,2021
+189.0,Travelers,United States,$32 B,$2.7 B,$109.1 B,$39.2 B,2021
+190.0,McDonald's,United States,$19.2 B,$4.7 B,$52.6 B,$173.8 B,2021
+,Poly Developments & Holdings Group,China,$34.3 B,$3.4 B,$189.4 B,$26.6 B,2021
+191.0,Tokio Marine Holdings,Japan,$49.7 B,$1.4 B,$247.6 B,$34.7 B,2021
+192.0,China Telecom,China,$57 B,$3 B,$109.3 B,$27.7 B,2021
+193.0,Nike,United States,$38.5 B,$3.4 B,$36.2 B,$212.2 B,2021
+194.0,Qualcomm,United States,$26.7 B,$6.7 B,$37.5 B,$157 B,2021
+195.0,Centene,United States,$111.1 B,$1.8 B,$69.8 B,$37.8 B,2021
+196.0,Micron Technology,United States,$23.5 B,$3.2 B,$54.1 B,$101.7 B,2021
+197.0,Cathay Financial,Taiwan,$37.9 B,$2.5 B,$389.4 B,$23.2 B,2021
+198.0,EDF,France,$78.7 B,$741 M,$374.3 B,$44.4 B,2021
+199.0,Fubon Financial,Taiwan,$35.2 B,$3.1 B,$328.4 B,$21.7 B,2021
+200.0,Sun Life Financial,Canada,$27 B,$1.9 B,$250.5 B,$30.6 B,2021
+201.0,General Dynamics,United States,$37.9 B,$3.2 B,$51.3 B,$52.3 B,2021
+201.0,Møller-Maersk,Denmark,$39.6 B,$2.8 B,$56.1 B,$47.8 B,2021
+203.0,Volvo Group,Sweden,$36.8 B,$2.1 B,$62.2 B,$52.2 B,2021
+204.0,Altria Group,United States,$20.8 B,$4.5 B,$47.4 B,$96.9 B,2021
+205.0,Humana,United States,$77.1 B,$3.4 B,$35.1 B,$56.2 B,2021
+206.0,Anglo American,United Kingdom,$30.8 B,$2.1 B,$62.5 B,$54.6 B,2021
+207.0,Netflix,United States,$25 B,$2.8 B,$39.3 B,$242.1 B,2021
+208.0,HDFC,India,$16.2 B,$2.4 B,$105 B,$62.4 B,2021
+209.0,Qatar National Bank,Qatar,$13.1 B,$3 B,$286.3 B,$45.4 B,2021
+210.0,Xiaomi,China,$35.7 B,$3 B,$38.8 B,$84.5 B,2021
+211.0,Air Liquide,France,$23.4 B,$2.8 B,$51.4 B,$79.9 B,2021
+212.0,Nordea Bank,Finland,$12.7 B,$2.5 B,$676.1 B,$42 B,2021
+213.0,Northrop Grumman,United States,$36.8 B,$3.2 B,$44.5 B,$55.8 B,2021
+214.0,ABB,Switzerland,$26 B,$5.1 B,$41.1 B,$67.8 B,2021
+215.0,China Evergrande Group,China,$74 B,$1.2 B,$351.9 B,$23.9 B,2021
+,Seven & I Holdings,Japan,$54.4 B,$1.7 B,$65.2 B,$36.9 B,2021
+216.0,KB Financial Group,South Korea,$30.8 B,$2.9 B,$564.4 B,$18.4 B,2021
+217.0,Sunac China Holdings,China,$34.1 B,$5.2 B,$169.5 B,$18.6 B,2021
+218.0,Kroger,United States,$132.5 B,$2.6 B,$51.6 B,$28.3 B,2021
+219.0,EMD Group,Germany,$20 B,$2.3 B,$51.6 B,$77.6 B,2021
+220.0,E.ON,Germany,$69.5 B,$1 B,$123.3 B,$30.7 B,2021
+221.0,PTT,Thailand,$51.6 B,$1.2 B,$84.9 B,$36.4 B,2021
+222.0,Telefónica,Spain,$49.1 B,$1.5 B,$128.5 B,$24.4 B,2021
+223.0,National Grid,United Kingdom,$18.8 B,$1.9 B,$85 B,$44.3 B,2021
+224.0,HP,United States,$57.7 B,$3.2 B,$34.7 B,$42.6 B,2021
+225.0,Danone,France,$26.9 B,$2.2 B,$52.3 B,$46.4 B,2021
+226.0,Panasonic,Japan,$61.9 B,$1.7 B,$64.6 B,$30.1 B,2021
+227.0,Power Corp of Canada,Canada,$43.9 B,$1.5 B,$476.4 B,$18.7 B,2021
+228.0,Mastercard,United States,$15.3 B,$6.4 B,$33.6 B,$383.6 B,2021
+229.0,Baidu,China,$15.5 B,$3.3 B,$50.9 B,$75.4 B,2021
+230.0,PICC,China,$82.4 B,$2.9 B,$192 B,$14.5 B,2021
+,Fortum,Finland,$55.9 B,$2.1 B,$70.7 B,$24 B,2021
+231.0,Fresenius,Germany,$41.4 B,$1.9 B,$81.5 B,$25.4 B,2021
+232.0,Dow,United States,$38.5 B,$1.2 B,$61.5 B,$48.2 B,2021
+233.0,Archer Daniels Midland,United States,$64.4 B,$1.8 B,$49.7 B,$33.2 B,2021
+234.0,Shinhan Financial Group,South Korea,$22.9 B,$2.8 B,$557.2 B,$17.6 B,2021
+234.0,ASML Holding,Netherlands,$15.9 B,$4.1 B,$33.4 B,$267.6 B,2021
+236.0,American Electric,United States,$14.9 B,$2.2 B,$84 B,$44 B,2021
+237.0,Becton Dickinson,United States,$18.2 B,$1.6 B,$54.7 B,$75.8 B,2021
+238.0,Gree Electric Appliances,China,$24.3 B,$2.3 B,$40.3 B,$55.3 B,2021
+239.0,LafargeHolcim,Switzerland,$24.7 B,$1.8 B,$60.2 B,$38.9 B,2021
+240.0,China Railway Group,China,$141.6 B,$3.4 B,$183.5 B,$12.5 B,2021
+241.0,Automatic Data Processing,United States,$14.6 B,$2.5 B,$49.3 B,$82.6 B,2021
+242.0,NVIDIA,United States,$16.7 B,$4.3 B,$28.8 B,$396.1 B,2021
+243.0,KBC Group,Belgium,$13.6 B,$1.6 B,$392.4 B,$31.3 B,2021
+244.0,Royal Ahold Delhaize N.V.,Netherlands,$85.2 B,$1.6 B,$49.8 B,$28.6 B,2021
+245.0,Sun Hung Kai Properties,Hong Kong,$11.7 B,$2.8 B,$100.5 B,$44.5 B,2021
+,Novo Nordisk,Denmark,$19.4 B,$6.4 B,$23.8 B,$167.3 B,2021
+246.0,Investor AB,Sweden,$9.6 B,$5.7 B,$69.5 B,$66.3 B,2021
+247.0,Tesla,United States,$31.5 B,$690 M,$52.1 B,$710.1 B,2021
+248.0,Huaxia Bank,China,$22.9 B,$3 B,$489.2 B,$14.8 B,2021
+249.0,Kweichow Moutai,China,$12.2 B,$6.8 B,$32.6 B,$395.8 B,2021
+250.0,Citic Securities,China,$12.4 B,$2.2 B,$161 B,$32.1 B,2021
+251.0,KIA,South Korea,$50.1 B,$1.3 B,$55.7 B,$31.2 B,2021
+252.0,Japan Tobacco,Japan,$19.6 B,$2.9 B,$52.1 B,$34.1 B,2021
+253.0,Dollar General,United States,$33.7 B,$2.7 B,$28.5 B,$51.9 B,2021
+254.0,Posco,South Korea,$49 B,$1.4 B,$72.8 B,$23.4 B,2021
+255.0,State Street,United States,$11.4 B,$2.3 B,$316.9 B,$28 B,2021
+256.0,Tesco,United Kingdom,$74.8 B,$1.1 B,$64 B,$24.6 B,2021
+257.0,Banco do Brasil,Brazil,$24 B,$2.3 B,$314 B,$15.1 B,2021
+258.0,Baoshan Iron & Steel,China,$39.1 B,$1.6 B,$52.3 B,$28 B,2021
+259.0,Orix,Japan,$21.2 B,$1.9 B,$129.1 B,$20 B,2021
+260.0,Fiserv,United States,$14.9 B,$958 M,$74.6 B,$83.4 B,2021
+,China Unicom,Hong Kong,$44 B,$1.8 B,$90.5 B,$17.6 B,2021
+261.0,Wilmar International,Singapore,$50.5 B,$1.5 B,$51 B,$25.9 B,2021
+262.0,Sempra Energy,United States,$11.4 B,$3.9 B,$66.6 B,$41.8 B,2021
+263.0,LG Electronics,South Korea,$53.6 B,$1.7 B,$44.4 B,$27.2 B,2021
+264.0,NN Group,Netherlands,$21.1 B,$2.1 B,$321.4 B,$15.8 B,2021
+265.0,Mitsubishi Electric,Japan,$38.9 B,$1.6 B,$43.1 B,$33.1 B,2021
+266.0,Kering,France,$14.9 B,$2.5 B,$34.3 B,$95 B,2021
+267.0,Diageo,United Kingdom,$14.7 B,$1.4 B,$44.8 B,$104.4 B,2021
+268.0,Reckitt Benckiser Group,United Kingdom,$17.9 B,$1.5 B,$42.8 B,$65.7 B,2021
+269.0,Bank of Beijing,China,$17.9 B,$2.8 B,$421.2 B,$15.4 B,2021
+269.0,Poste Italiane,Italy,$27.6 B,$1.3 B,$333.2 B,$16.8 B,2021
+271.0,ViacomCBS,United States,$25.9 B,$2.4 B,$52.7 B,$25.4 B,2021
+272.0,Nomura,Japan,$16.5 B,$2.6 B,$431.9 B,$16.4 B,2021
+272.0,BT Group,United Kingdom,$28.1 B,$1.9 B,$69.2 B,$21.1 B,2021
+274.0,Henkel,Germany,$21.9 B,$1.6 B,$37.7 B,$51.5 B,2021
+275.0,Dai-ichi Life Insurance,Japan,$57.9 B,$657.6 M,$615.6 B,$20.7 B,2021
+,Korea Electric Power,South Korea,$49.6 B,$1.7 B,$187 B,$13.8 B,2021
+276.0,Ericsson,Sweden,$25.2 B,$1.9 B,$33.1 B,$46.9 B,2021
+276.0,United Overseas Bank,Singapore,$9.5 B,$2 B,$326.7 B,$32.8 B,2021
+278.0,TC Energy,Canada,$9.6 B,$3.4 B,$78.7 B,$46.6 B,2021
+279.0,Bank Of Shanghai,China,$14 B,$2.7 B,$358.8 B,$18.1 B,2021
+280.0,Adobe,United States,$13.7 B,$5.6 B,$25 B,$251 B,2021
+281.0,Fannie Mae,United States,$109.6 B,$11.8 B,"$3,986.1 B",$2.8 B,2021
+282.0,CNP Assurances,France,$37.5 B,$1.5 B,$515.7 B,$13.6 B,2021
+283.0,Inditex,Spain,$23.4 B,$1.3 B,$32.1 B,$106.1 B,2021
+284.0,Applied Materials,United States,$18.2 B,$3.9 B,$23.3 B,$122.7 B,2021
+285.0,BCE,Canada,$17.1 B,$1.8 B,$47.6 B,$42.1 B,2021
+285.0,Couche Tard,Canada,$43.1 B,$2.7 B,$27.5 B,$35.9 B,2021
+285.0,Saudi Telecom,Saudi Arabia,$15.7 B,$3 B,$32.5 B,$64.3 B,2021
+288.0,Bank of Ningbo,China,$9.3 B,$2 B,$226.4 B,$34.8 B,2021
+289.0,CaixaBank,Spain,$11.6 B,$1.6 B,$552.5 B,$24.7 B,2021
+290.0,Macquarie Group,Australia,$9.8 B,$1.5 B,$165.4 B,$41.8 B,2021
+,IntercontinentalExchange,United States,$7.6 B,$2.1 B,$126.2 B,$67.9 B,2021
+291.0,Surgutneftegas,Russia,$18.8 B,$8.4 B,$79.4 B,$16.7 B,2021
+292.0,Deutsche Bank,Germany,$35.4 B,$566.6 M,"$1,621.5 B",$25.8 B,2021
+293.0,AT&T,United States,$171.8 B,$-5.2 B,$525.8 B,$213.8 B,2021
+294.0,Tyson Foods,United States,$42.8 B,$2 B,$35.5 B,$28.2 B,2021
+295.0,Marsh & McLennan,United States,$17.2 B,$2 B,$33 B,$64.9 B,2021
+296.0,Ameriprise Financial,United States,$12.1 B,$1.5 B,$165.9 B,$29 B,2021
+297.0,First Abu Dhabi Bank,United Arab Emirates,$7.4 B,$2.8 B,$250.2 B,$43.3 B,2021
+298.0,Hartford Financial Services,United States,$20.5 B,$1.7 B,$69.2 B,$23.7 B,2021
+299.0,ExxonMobil,United States,$178.2 B,$-22.4 B,$332.8 B,$239.9 B,2021
+300.0,Freddie Mac,United States,$68.7 B,$7.3 B,"$2,627.4 B",$1.5 B,2021
+301.0,Vivendi,France,$18.3 B,$1.6 B,$46.6 B,$37.3 B,2021
+301.0,The Saudi National Bank,Saudi Arabia,$6.6 B,$3 B,$159.8 B,$65.3 B,2021
+303.0,CRH,United States,$27.5 B,$1.1 B,$44.9 B,$38.2 B,2021
+304.0,Tata Consultancy Services,India,$22.1 B,$4.4 B,$17.9 B,$158.9 B,2021
+305.0,Philips,Netherlands,$22.3 B,$1.4 B,$34.2 B,$54.8 B,2021
+306.0,Royal Dutch Shell,Netherlands,$170.2 B,$-22.2 B,$379.3 B,$152 B,2021
+307.0,Stryker,United States,$14.4 B,$1.6 B,$34.3 B,$96.8 B,2021
+308.0,Etisalat,United Arab Emirates,$14.1 B,$2.5 B,$36.2 B,$51.9 B,2021
+309.0,Mitsui Fudosan,Japan,$19.5 B,$1.7 B,$73.6 B,$22.2 B,2021
+310.0,Daiwa House Industry,Japan,$39.5 B,$1.8 B,$48.3 B,$20.6 B,2021
+311.0,Shin-Etsu Chemical,Japan,$13.7 B,$2.6 B,$31.5 B,$72.5 B,2021
+312.0,Daikin Industries,Japan,$22.9 B,$1.4 B,$29.5 B,$61 B,2021
+313.0,CSX,United States,$10.6 B,$2.8 B,$40.3 B,$74.9 B,2021
+314.0,Lennar,United States,$23.3 B,$3 B,$30.6 B,$33.2 B,2021
+315.0,LyondellBasell Industries,United Kingdom,$27.7 B,$1.4 B,$35.4 B,$36 B,2021
+,Swiss Life Holding,Switzerland,$23.9 B,$1.1 B,$269 B,$16.4 B,2021
+316.0,Chevron,United States,$94.4 B,$-5.5 B,$239.8 B,$198.5 B,2021
+317.0,General Mills,United States,$18.6 B,$2.5 B,$32.6 B,$37.4 B,2021
+318.0,Newmont Mining,United States,$11.4 B,$2.8 B,$41.4 B,$52.4 B,2021
+319.0,Barrick Gold,Canada,$12.5 B,$2.3 B,$46.5 B,$39.5 B,2021
+320.0,China Railway Construction,China,$131.9 B,$3.3 B,$190 B,$8.9 B,2021
+321.0,Haier Smart Home,China,$30.3 B,$1.3 B,$31.1 B,$41.8 B,2021
+322.0,Anhui Conch Cement,China,$22.7 B,$4.9 B,$25.9 B,$33 B,2021
+323.0,Discover Financial Services,United States,$13 B,$1.1 B,$113.3 B,$31.3 B,2021
+324.0,Texas Instruments,United States,$14.5 B,$5.6 B,$19.4 B,$177.2 B,2021
+325.0,DNB,Norway,$7.5 B,$2 B,$340.9 B,$34.5 B,2021
+326.0,Total,France,$119.7 B,$-7.6 B,$266.1 B,$118.4 B,2021
+327.0,Nintendo,Japan,$15.8 B,$4.1 B,$22.5 B,$71.2 B,2021
+328.0,Fortescue Metals Group,Australia,$15.5 B,$6.3 B,$24.5 B,$49.6 B,2021
+329.0,China Yangtze Power,China,$8.3 B,$3.8 B,$50 B,$71.4 B,2021
+330.0,Cardinal Health,United States,$156.5 B,$1.4 B,$44.7 B,$18 B,2021
+,Canadian National Railway,Canada,$10.3 B,$2.7 B,$35.6 B,$84.5 B,2021
+331.0,BP,United Kingdom,$180 B,$-20.9 B,$267.7 B,$84.5 B,2021
+332.0,Walt Disney,United States,$60.4 B,$-5 B,$201.9 B,$339.9 B,2021
+332.0,Hyundai Mobis,South Korea,$31 B,$1.3 B,$44.6 B,$25.3 B,2021
+334.0,Eaton,Ireland,$17.9 B,$1.4 B,$31.8 B,$56.2 B,2021
+335.0,Principal Financial Group,United States,$14.7 B,$1.4 B,$296.6 B,$17.2 B,2021
+336.0,New China Life Insurance,China,$29.9 B,$2.1 B,$153.1 B,$11.9 B,2021
+337.0,Johnson Controls International,Ireland,$22.1 B,$923 M,$41.4 B,$45 B,2021
+338.0,Woolworths,Australia,$46.2 B,$972.8 M,$30.5 B,$41.2 B,2021
+338.0,RWE Group,Germany,$15.6 B,$1.1 B,$81 B,$27.7 B,2021
+340.0,Bank Of Jiangsu,China,$14.9 B,$2.1 B,$332.7 B,$14 B,2021
+341.0,Santander,Spain,$73.6 B,$-10 B,"$1,845.4 B",$59.6 B,2021
+341.0,Bank Rakyat Indonesia (BRI),Indonesia,$10 B,$1.3 B,$107.6 B,$36.5 B,2021
+341.0,Fujitsu,Japan,$34 B,$1.6 B,$29.4 B,$30.3 B,2021
+344.0,Maybank,Malaysia,$10.5 B,$1.5 B,$213 B,$22.9 B,2021
+344.0,Toyota Industries,Japan,$19.4 B,$1.2 B,$58.2 B,$27.2 B,2021
+,Larsen & Toubro,India,$17.8 B,$2.1 B,$42 B,$25.7 B,2021
+346.0,Gazprom,Russia,$90.5 B,$-921.2 M,$294.9 B,$73.5 B,2021
+347.0,Norfolk Southern,United States,$9.8 B,$2 B,$38.4 B,$73.5 B,2021
+348.0,Synchrony Financial,United States,$12.8 B,$1.4 B,$95.9 B,$24.1 B,2021
+349.0,Keurig Dr Pepper,United States,$11.6 B,$1.3 B,$49.8 B,$50.7 B,2021
+350.0,L3Harris Technologies,United States,$18.2 B,$1.1 B,$37 B,$43.3 B,2021
+351.0,Greenland Holdings Group,China,$68.7 B,$1.3 B,$206.3 B,$10.4 B,2021
+352.0,BAE Systems,United States,$24.7 B,$1.7 B,$38.2 B,$23.2 B,2021
+353.0,Waste Management,United States,$15.2 B,$1.5 B,$29.7 B,$57 B,2021
+354.0,Brookfield Asset Management,Canada,$63.4 B,$-175.9 M,$343.7 B,$69.7 B,2021
+354.0,Xcel Energy,United States,$11.5 B,$1.5 B,$56.3 B,$37.9 B,2021
+356.0,Anheuser-Busch InBev,Belgium,$46.8 B,$-742 M,$230 B,$134.1 B,2021
+357.0,Raytheon Technologies,United States,$63.5 B,$-3.5 B,$162.2 B,$118.6 B,2021
+357.0,Emerson Electric,United States,$16.8 B,$2.1 B,$23.7 B,$55.3 B,2021
+359.0,Al Rajhi Bank,Saudi Arabia,$5.6 B,$2.8 B,$125 B,$62.8 B,2021
+360.0,Boeing,United States,$58.2 B,$-11.9 B,$152.1 B,$144.8 B,2021
+,Sherwin-Williams,United States,$18.4 B,$2 B,$20.4 B,$71.4 B,2021
+361.0,VMware,United States,$11.8 B,$2.1 B,$29 B,$68.8 B,2021
+362.0,Ally Financial,United States,$10.5 B,$2.2 B,$181.9 B,$17.8 B,2021
+363.0,China Merchants Shekou Industrial Zone Holdings,China,$17.5 B,$1.8 B,$112.7 B,$14.5 B,2021
+364.0,Imperial Brands,United Kingdom,$21.2 B,$1.9 B,$41.8 B,$20.7 B,2021
+365.0,American Tower,United States,$8 B,$1.7 B,$47.2 B,$110.6 B,2021
+366.0,Norilsk Nickel,Russia,$15.7 B,$3.5 B,$20.7 B,$53.2 B,2021
+367.0,China National Building,China,$37 B,$1.8 B,$69.8 B,$12.9 B,2021
+368.0,Samsung Life Insurance,South Korea,$24.3 B,$1.1 B,$309.7 B,$13 B,2021
+369.0,Emirates NBD,United Arab Emirates,$9.7 B,$1.7 B,$190.1 B,$20.6 B,2021
+370.0,Ford Motor,United States,$127.1 B,$-1.3 B,$267.3 B,$48.8 B,2021
+371.0,Starbucks,United States,$23.2 B,$664.8 M,$30 B,$139.3 B,2021
+372.0,China Communications Construction,China,$90.8 B,$2.3 B,$199.4 B,$7.8 B,2021
+373.0,CTBC Financial,Taiwan,$13.4 B,$1.5 B,$235.5 B,$15.3 B,2021
+374.0,AIRBUS,Netherlands,$56.9 B,$-1.3 B,$134.7 B,$97.6 B,2021
+375.0,Telecom Italia,Italy,$18 B,$8.2 B,$89.6 B,$11.3 B,2021
+,Zijin Mining Group,China,$26.6 B,$1.2 B,$29 B,$34.9 B,2021
+375.0,National Bank of Canada,Canada,$8.1 B,$1.6 B,$269 B,$23.7 B,2021
+377.0,SEB AB,Sweden,$7 B,$1.7 B,$370.2 B,$27.7 B,2021
+378.0,Sompo,Japan,$34.4 B,$931.9 M,$123.3 B,$13.7 B,2021
+379.0,Aon,Ireland,$11.1 B,$2 B,$32.1 B,$54 B,2021
+380.0,Weichai Power,China,$28.5 B,$1.3 B,$41.4 B,$20.1 B,2021
+381.0,Carrier Global,United States,$17.5 B,$2 B,$25.1 B,$38.1 B,2021
+382.0,Saint-Gobain,France,$43.5 B,$519.8 M,$59.5 B,$33.8 B,2021
+383.0,Murata Manufacturing,Japan,$14.8 B,$2 B,$23.3 B,$52.9 B,2021
+384.0,Hengli Petrochemical,China,$17.8 B,$1.9 B,$28.4 B,$31.5 B,2021
+385.0,Recruit Holdings,Japan,$21 B,$1.2 B,$20.4 B,$77.3 B,2021
+385.0,Cosco Shipping,China,$24.9 B,$1.5 B,$41.6 B,$19.1 B,2021
+387.0,Bristol Myers Squibb,United States,$42.5 B,$-9 B,$118.5 B,$146.2 B,2021
+388.0,Danske Bank,Denmark,$20.9 B,$617.5 M,$675.5 B,$17 B,2021
+389.0,Cummins,United States,$19.8 B,$1.8 B,$22.6 B,$38.7 B,2021
+390.0,OMV Group,Austria,$18.9 B,$1.4 B,$63.4 B,$16.8 B,2021
+,Saudi Electricity,Saudi Arabia,$18.3 B,$559.2 M,$129.4 B,$27.2 B,2021
+391.0,Glencore International,Switzerland,$142.4 B,$-2 B,$118 B,$55.2 B,2021
+392.0,D.R. Horton,United States,$22.2 B,$2.7 B,$19.8 B,$35.1 B,2021
+393.0,Best Buy,United States,$47.3 B,$1.8 B,$19.1 B,$30 B,2021
+394.0,Prudential Financial,United States,$57 B,$-408 M,$940.7 B,$39.1 B,2021
+395.0,Stellantis,Netherlands,$98.8 B,$33.1 M,$122 B,$57 B,2021
+396.0,Suzuki Motor,Japan,$28.5 B,$1.2 B,$37.1 B,$21 B,2021
+396.0,BASF,Germany,$67.4 B,$-1.2 B,$100.9 B,$79.7 B,2021
+398.0,Canon,Japan,$29.6 B,$780.4 M,$44.8 B,$24.9 B,2021
+399.0,Fast Retailing,Japan,$18.9 B,$903.8 M,$23.5 B,$84.7 B,2021
+400.0,Fifth Third Bank,United States,$7.4 B,$1.4 B,$204.7 B,$27.2 B,2021
+400.0,CME Group,United States,$4.9 B,$2.1 B,$124.7 B,$74.5 B,2021
+402.0,EnBW-Energie Baden,Germany,$22.5 B,$679.5 M,$60 B,$26.5 B,2021
+403.0,Samsung C&T,South Korea,$25.6 B,$907.8 M,$50 B,$20.5 B,2021
+404.0,CRRC,China,$32.9 B,$1.7 B,$60 B,$12.5 B,2021
+405.0,Bayer,Germany,$47.2 B,$-12 B,$150.3 B,$63.6 B,2021
+406.0,Toyota Tsusho,Japan,$57 B,$1 B,$47 B,$15.5 B,2021
+407.0,Public Service Enterprise Group,United States,$9.3 B,$1.9 B,$50.1 B,$32 B,2021
+408.0,Phoenix Group Holdings,United Kingdom,$27.9 B,$993.8 M,$443.6 B,$10.5 B,2021
+409.0,Consolidated Edison,United States,$12.2 B,$1.1 B,$62.9 B,$26.8 B,2021
+410.0,Kimberly-Clark,United States,$19.1 B,$2.4 B,$17.5 B,$47.1 B,2021
+411.0,Wesfarmers,Australia,$22.9 B,$1.3 B,$19.7 B,$48.8 B,2021
+412.0,Bank Central Asia,Indonesia,$6 B,$1.9 B,$76.6 B,$53.1 B,2021
+413.0,Kraft Heinz Company,United States,$26.2 B,$356 M,$99.8 B,$50.1 B,2021
+414.0,Paccar,United States,$18.7 B,$1.3 B,$28.3 B,$33 B,2021
+415.0,American International Group,United States,$43.7 B,$-5.9 B,$512.9 B,$40.6 B,2021
+,Mitsubishi Estate,Japan,$11.7 B,$1.4 B,$59.8 B,$23.4 B,2021
+416.0,Equinor,Norway,$45.4 B,$-5.4 B,$122 B,$63.7 B,2021
+417.0,DTE Energy,United States,$12.3 B,$1.4 B,$45.5 B,$27.3 B,2021
+418.0,Lenovo Group,Hong Kong,$55.7 B,$960.6 M,$38.6 B,$16.8 B,2021
+419.0,Fujifilm Holdings,Japan,$20.2 B,$1.2 B,$32.6 B,$25.2 B,2021
+420.0,Colgate-Palmolive,United States,$16.5 B,$2.7 B,$15.9 B,$68.5 B,2021
+421.0,Hana Financial Group,South Korea,$12.6 B,$2.2 B,$423.7 B,$10.7 B,2021
+422.0,Kotak Mahindra Bank,India,$7.5 B,$1.3 B,$65.3 B,$47.1 B,2021
+423.0,Telstra,Australia,$15 B,$1.2 B,$33.5 B,$31.5 B,2021
+423.0,Biogen,United States,$10.6 B,$4 B,$24.6 B,$40.7 B,2021
+425.0,Talanx,Germany,$45.7 B,$767.2 M,$216.4 B,$11 B,2021
+426.0,Carrefour,France,$82.2 B,$730.7 M,$58.2 B,$14.7 B,2021
+427.0,Standard Chartered,United Kingdom,$21 B,$425.8 M,$789.1 B,$21.3 B,2021
+428.0,Svenska Handelsbanken,Sweden,$6.5 B,$1.7 B,$381.8 B,$22.8 B,2021
+429.0,Sumitomo Mitsui Trust,Japan,$12.1 B,$1.3 B,$587.9 B,$13 B,2021
+429.0,DISH Network,United States,$15.5 B,$1.8 B,$38.4 B,$20 B,2021
+,Meituan,China,$16.7 B,$659.6 M,$25.5 B,$218.6 B,2021
+431.0,Walgreens,United States,$138.5 B,$-616 M,$90.9 B,$46.1 B,2021
+432.0,BYD,China,$22.3 B,$584.7 M,$30.9 B,$64.9 B,2021
+433.0,Fosun International,China,$19.8 B,$1.2 B,$117.4 B,$12.1 B,2021
+434.0,ENGIE,France,$63.6 B,$-1.8 B,$187.4 B,$35.9 B,2021
+435.0,Eni,Italy,$50.1 B,$-9.8 B,$137.9 B,$44.3 B,2021
+436.0,Kubota,Japan,$17.4 B,$1.2 B,$30.9 B,$28.6 B,2021
+436.0,Shimao Property Holdings,Hong Kong,$19.8 B,$1.8 B,$90.2 B,$10.7 B,2021
+438.0,CK Asset Holdings,Hong Kong,$8.4 B,$2.1 B,$67.2 B,$22.9 B,2021
+439.0,Bank of Nanjing,China,$9.5 B,$1.8 B,$219.5 B,$14.2 B,2021
+440.0,Edp-energias De Portugal,Portugal,$14.4 B,$913.5 M,$52.5 B,$23.8 B,2021
+441.0,LukOil,Russia,$71.8 B,$209.7 M,$81.5 B,$52.3 B,2021
+442.0,Sany Heavy Industry,China,$14.4 B,$2.2 B,$19.3 B,$41.2 B,2021
+443.0,Grupo Mexico,Mexico,$10.3 B,$1.9 B,$28.4 B,$40.5 B,2021
+444.0,Michelin Group,France,$23.3 B,$715.9 M,$38.7 B,$26.6 B,2021
+445.0,Komatsu,Japan,$19.9 B,$791.3 M,$34.8 B,$29.3 B,2021
+,NetEase,China,$10.7 B,$1.7 B,$21.7 B,$73.4 B,2021
+446.0,Asahi Group Holdings,Japan,$19 B,$869.4 M,$43 B,$22.2 B,2021
+447.0,SK Telecom,South Korea,$15.8 B,$1.3 B,$44.1 B,$19.3 B,2021
+447.0,Air Products & Chemicals,United States,$9 B,$1.9 B,$26.1 B,$63.6 B,2021
+449.0,Athene Holding,Bermuda,$14.8 B,$1.5 B,$197.9 B,$10.6 B,2021
+450.0,eBay,United States,$10.7 B,$5.7 B,$19.3 B,$44.2 B,2021
+451.0,Freeport-McMoRan,United States,$13.9 B,$590 M,$42.1 B,$55.6 B,2021
+452.0,Power Construction Corporation of China,China,$53.3 B,$1 B,$132.9 B,$9.1 B,2021
+453.0,LG Chem,South Korea,$25.8 B,$434.5 M,$38.1 B,$62.5 B,2021
+454.0,Saudi Basic Industries,Saudi Arabia,$31.3 B,$37 M,$80 B,$93.3 B,2021
+455.0,Bouygues,France,$39.6 B,$793.4 M,$49.7 B,$15.9 B,2021
+456.0,Citizens Bank (Rhode IsIand),United States,$7.4 B,$1.6 B,$187.2 B,$19.1 B,2021
+457.0,Capgemini,France,$18.1 B,$1.1 B,$26.9 B,$30.6 B,2021
+458.0,Edison International,United States,$13.6 B,$739 M,$69.4 B,$23.3 B,2021
+459.0,Magna International,Canada,$32.5 B,$712.7 M,$28.6 B,$28.8 B,2021
+460.0,Dollar Tree,United States,$25.5 B,$1.3 B,$20.7 B,$27.4 B,2021
+,Telenor,Norway,$13 B,$1.7 B,$30 B,$25.7 B,2021
+461.0,China Zheshang Bank,China,$14.2 B,$1.8 B,$313.2 B,$9.6 B,2021
+462.0,Entergy,United States,$10 B,$1.4 B,$58.2 B,$21.4 B,2021
+463.0,Lam Research,United States,$11.9 B,$3 B,$15.4 B,$92 B,2021
+464.0,Infosys,India,$13.5 B,$2.6 B,$14.8 B,$77.5 B,2021
+465.0,The Estée Lauder Companies,United States,$14.2 B,$928 M,$19.6 B,$113.3 B,2021
+466.0,China Tower Corp.,China,$11.8 B,$932.7 M,$51.6 B,$25.9 B,2021
+467.0,Corteva,United States,$14.2 B,$681 M,$42.6 B,$35.2 B,2021
+468.0,CSL,Australia,$9.9 B,$2.6 B,$17.7 B,$94.7 B,2021
+469.0,Safran,France,$19 B,$401.3 M,$48.4 B,$66.8 B,2021
+470.0,Banorte,Mexico,$9.4 B,$1.4 B,$89.7 B,$17.6 B,2021
+471.0,KeyCorp,United States,$7.3 B,$1.3 B,$170.3 B,$20 B,2021
+472.0,Lufax Holding,China,$8.3 B,$1.8 B,$38.1 B,$34 B,2021
+473.0,Swedbank,Sweden,$6.4 B,$1.4 B,$315.9 B,$21.1 B,2021
+474.0,Constellation Brands,United States,$8.6 B,$2 B,$27.1 B,$45.8 B,2021
+475.0,Nidec,Japan,$14.6 B,$876.9 M,$20.5 B,$75.1 B,2021
+,Naspers,South Africa,$4.8 B,$3.1 B,$45.7 B,$106.1 B,2021
+476.0,Vonovia,Germany,$4.8 B,$3.7 B,$76.4 B,$39.8 B,2021
+476.0,Activision Blizzard,United States,$8.1 B,$2.2 B,$23.1 B,$74.7 B,2021
+478.0,Bank Mandiri,Indonesia,$8.6 B,$1.2 B,$101.7 B,$20.2 B,2021
+479.0,Marathon Petroleum,United States,$75 B,$-9.9 B,$85.2 B,$35.4 B,2021
+480.0,Illinois Tool Works,United States,$12.6 B,$2.1 B,$15.6 B,$70.9 B,2021
+481.0,Eversource Energy,United States,$8.9 B,$1.2 B,$46.1 B,$30.8 B,2021
+482.0,Parker-Hannifin,United States,$13.5 B,$1.4 B,$19.8 B,$41.4 B,2021
+483.0,S.F. Holding,China,$22.3 B,$1.1 B,$17 B,$44.4 B,2021
+484.0,NTPC,India,$15.1 B,$1.6 B,$53.8 B,$13.4 B,2021
+485.0,Transneft,Russia,$14.3 B,$2.1 B,$44.1 B,$13.9 B,2021
+486.0,Stanley Black & Decker,United States,$14.5 B,$1.2 B,$23.6 B,$33.1 B,2021
+487.0,Rongsheng Petrochemical,China,$14 B,$858.1 M,$34.1 B,$28.5 B,2021
+488.0,Denso,Japan,$44.6 B,$-233.6 M,$66.1 B,$51.2 B,2021
+489.0,Gilead Sciences,United States,$24.6 B,$123 M,$68.4 B,$84 B,2021
+489.0,Swiss Re,Switzerland,$42.7 B,$-918.3 M,$183 B,$28.5 B,2021
+,Swisscom,Switzerland,$11.8 B,$1.6 B,$27.4 B,$27 B,2021
+491.0,Nutrien,Canada,$21 B,$478.9 M,$47.2 B,$32 B,2021
+492.0,M&G,United Kingdom,$19 B,$1.5 B,$296.6 B,$7.9 B,2021
+493.0,Cognizant,United States,$16.7 B,$1.4 B,$16.9 B,$42.8 B,2021
+494.0,Vestas Wind Systems,Denmark,$16.9 B,$870.5 M,$22.2 B,$40.1 B,2021
+495.0,JBS,Brazil,$52.4 B,$891.5 M,$31.5 B,$14.8 B,2021
+496.0,Société Générale,France,$41.4 B,$-990.6 M,"$1,788.8 B",$20.9 B,2021
+497.0,Ageas,Belgium,$12.5 B,$1.3 B,$135.4 B,$11.4 B,2021
+498.0,NEC,Japan,$27.8 B,$986.3 M,$32.4 B,$16.3 B,2021
+498.0,Adidas,Germany,$22.6 B,$493.6 M,$25.8 B,$64.9 B,2021
+500.0,Novatek,Russia,$9.6 B,$937.5 M,$27.9 B,$58.4 B,2021
+501.0,PPG,United States,$14.3 B,$1.2 B,$20.1 B,$39.7 B,2021
+502.0,NatWest Group,United Kingdom,$18.1 B,$-477 M,"$1,092.9 B",$33.4 B,2021
+503.0,Wanhua Chemical Group,China,$10.5 B,$1.5 B,$20.5 B,$49.8 B,2021
+504.0,FirstRand,South Africa,$7.8 B,$923 M,$132.7 B,$20.5 B,2021
+505.0,Aptiv,Ireland,$13.1 B,$1.8 B,$17.5 B,$38.1 B,2021
+506.0,Subaru,Japan,$27.5 B,$1.1 B,$32 B,$15.2 B,2021
+507.0,Erste Group Bank,Austria,$10.6 B,$762.1 M,$340.4 B,$14.3 B,2021
+508.0,Aeon,Japan,$81.2 B,$-670.3 M,$107.8 B,$24.7 B,2021
+509.0,T&D Holdings,Japan,$18.9 B,$1.5 B,$169.1 B,$7.4 B,2021
+510.0,ArcelorMittal,Luxembourg,$53.2 B,$-838 M,$82.1 B,$31.8 B,2021
+510.0,Northern Trust,United States,$6.1 B,$1.2 B,$170 B,$22.2 B,2021
+510.0,Metallurgical Corp of China,China,$57.9 B,$1.1 B,$77.4 B,$5.5 B,2021
+513.0,MediaTek,Taiwan,$10.9 B,$1.4 B,$19 B,$54.4 B,2021
+513.0,Orsted,Denmark,$5.7 B,$2.3 B,$32.3 B,$66.8 B,2021
+515.0,Toshiba,Japan,$28.4 B,$698.8 M,$32.6 B,$19.2 B,2021
+,McKesson,United States,$237.6 B,$-4.2 B,$61.8 B,$30.7 B,2021
